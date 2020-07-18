@@ -238,7 +238,7 @@
 <tr>
 <td>543 BCE</td>
 <td>&nbsp;</td>
-<td>The Vanga-based&nbsp;<a title="Prince Vijaya" href="https://en.wikipedia.org/wiki/Prince_Vijaya">Prince Vijaya</a>&nbsp;(c. 543 BCE) married a daughter of the Pandyan king of Madurai, to whom he was sending rich presents every year.&nbsp;<a title="Sinhala language" href="https://en.wikipedia.org/wiki/Sinhala_language">Sinhala</a>&nbsp;chronicle&nbsp;<a class="mw-redirect" title="Mahawamsa" href="https://en.wikipedia.org/wiki/Mahawamsa">Mahawamsa</a>&nbsp;mentions this event<sup class="noprint Inline-Template Template-Fact">[<em><a title="Wikipedia:Citation needed" href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"><span title="This claim needs references to reliable sources. (January 2016)">citation needed</span></a></em>]</sup></td>
+<td>The Vanga-based&nbsp;<a title="Prince Vijaya" href="https://en.wikipedia.org/wiki/Prince_Vijaya">Prince Vijaya</a>&nbsp;(c. 543 BCE) married a daughter of the Pandyan king of Madurai, to whom he was sending rich presents every year.&nbsp;<a title="Sinhala language" href="https://en.wikipedia.org/wiki/Sinhala_language">Sinhala</a>&nbsp;chronicle&nbsp;<a class="mw-redirect" title="Mahawamsa" href="https://en.wikipedia.org/wiki/Mahawamsa">Mahawamsa</a>&nbsp;mentions this event.</td>
 </tr>
 <tr>
 <td>538 BCE</td>
