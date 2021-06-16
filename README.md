@@ -1217,7 +1217,7 @@
 <tr>
 <td><a class="new" title="1705 in India (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=1705_in_India&amp;action=edit&amp;redlink=1">1705</a></td>
 <td>&nbsp;</td>
-<td>Mughal army arrested for the act.<sup class="noprint Inline-Template">[<em><a title="Wikipedia:Please clarify" href="https://en.wikipedia.org/wiki/Wikipedia:Please_clarify"><span title="The text near this tag may need clarification or removal of jargon. (August 2013)">clarification needed</span></a></em>]</sup></td>
+<td>Mughal army arrested for the act.</td>
 </tr>
 <tr>
 <td><a title="1707 in India" href="https://en.wikipedia.org/wiki/1707_in_India">1707</a></td>
